@@ -1,0 +1,28 @@
+F:\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+F:\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+F:\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormLoading.resources
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForAdmin.resources
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForEmployee.resources
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForUpdatePassword.resources
+F:\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForLogin.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormLoading.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForAdmin.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForEmployee.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForUpdatePassword.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.FormForLogin.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.Properties.Resources.resources
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.GenerateResource.cache
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+F:\Morning -RegNo18-ntu-1130\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
